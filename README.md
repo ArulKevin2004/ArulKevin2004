@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact **I like F1**
 
+<!-- 
 - 📜 Check out my portfolio <a href="https://react-resume-template-theta.vercel.app/">here</a>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
