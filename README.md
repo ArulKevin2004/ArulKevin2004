@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I like F1**
 
+- 📜 Check out my portfolio <a href="https://react-resume-template-theta.vercel.app/">here</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arulkevin2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arulkevin2004" height="30" width="40" /></a>
